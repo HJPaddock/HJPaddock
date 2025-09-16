@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HJPaddock
+- 👋 Hi, I’m Hailey Paddock
 - 👀 I’m interested in software development, game development, cybersecurity and IT
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
